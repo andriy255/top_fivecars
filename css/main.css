@@ -1,0 +1,561 @@
+.foto{
+    max-width: 100%;
+    top: 0%;
+}
+
+.foto1{
+    width: 460px;
+    border: 1px solid black;
+}
+
+.foto2{
+    width: 540px;
+    border: 1px solid black;
+}
+
+.foto3{
+    width: 330px;
+    border: 1px solid black;
+    position: absolute;
+    left: 90%;
+}
+
+.foto4{
+    width: 430px;
+    border: 1px solid black;
+}
+
+.foto5{
+    width: 440px;
+    border: 1px solid black;
+    position: absolute;
+    left: 80%;
+}
+
+.foto6{
+    width: 450px;
+    border: 1px solid black;
+}
+
+.foto7{
+    width: 320px;
+    border: 1px solid black;
+    position: absolute;
+    left: 85%;
+}
+
+.foto8{
+    width: 450px;
+    border: 1px solid black;
+}
+
+.foto9{
+    width: 320px;
+    border: 1px solid black;
+    position: absolute;
+    left: 84%;
+}
+
+.foto10{
+    width: 440px;
+    border: 1px solid black;
+}
+
+.foto11{
+    width: 440px;
+    border: 1px solid black;
+    position: absolute;
+    left: 65%;
+}
+
+.foto12{
+    width: 440px;
+    border: 1px solid black;
+}
+
+.foto13{
+    width: 440px;
+    border: 1px solid black;
+}
+
+.video{
+    width: 420px;
+    border: 1px solid black;
+}
+
+.video1{
+    width: 430px;
+    border: 1px solid black;
+}
+
+.video2{
+    width: 440px;
+    border: 1px solid black;
+}
+
+.video3{
+    width: 420px;
+    border: 1px solid black;
+}
+
+.video4{
+    width: 440px;
+    border: 1px solid black;
+}
+
+.zah1{
+top: 10%;
+color: white;
+font-size: 50.2px;
+font-family: 'Francois One', sans-serif;
+position: absolute;
+line-height: 8.77;
+left: 4%;
+}
+
+.zah2{
+top: 96%;
+color: black;
+font-size: 44px;
+font-family: 'Secular One', sans-serif;  
+position: absolute;
+line-height: 2.5;
+left: 4%;
+}
+
+.zah3{
+top: 171%;
+color: black;
+font-size: 44px;
+font-family: 'Secular One', sans-serif;  
+position: absolute;
+line-height: 2.5;
+left: 4%;
+}
+
+.zah4{
+top: 320.5%;
+color: black;
+font-size: 44px;
+font-family: 'Secular One', sans-serif;  
+position: absolute;
+line-height: 2.5;
+left: 4%;
+}
+
+.zah5{
+top: 457.6%;
+color: black;
+font-size: 44px;
+font-family: 'Secular One', sans-serif;  
+position: absolute;
+line-height: 2.5;
+left: 4%;
+}
+
+.zah6{
+top: 593%;
+color: black;
+font-size: 44px;
+font-family: 'Secular One', sans-serif;  
+position: absolute;
+line-height: 2.5;
+left: 4%;
+}
+
+.zah7{
+top: 730.1%;
+color: black;
+font-size: 44px;
+font-family: 'Secular One', sans-serif;  
+position: absolute;
+line-height: 2.5;
+left: 4%;
+}
+
+.zah8{
+top: 858.1%;
+color: black;
+font-size: 44px;
+font-family: 'Secular One', sans-serif;  
+position: absolute;
+line-height: 2.5;
+left: 4%;
+}
+
+.zah9{
+top: 941%;
+color: black;
+font-size: 44px;
+font-family: 'Secular One', sans-serif;  
+position: absolute;
+line-height: 2.5;
+left: 4%;
+}
+
+.zah10{
+color: black;
+font-size: 40px;
+font-family: 'Secular One', sans-serif;  
+position: absolute;
+line-height: 2.5;
+left: 4%;
+}
+
+.zah11{
+color: black;
+font-size: 40px;
+font-family: 'Secular One', sans-serif;  
+position: absolute;
+line-height: 2.5;
+left: 35%;
+}
+
+.zah12{
+top: 36%;
+color: black;
+font-size: 40px;
+font-family: 'Signika', sans-serif;
+position: absolute;
+left: 73%;
+}
+
+.par1{
+top: 110%;
+color: black;
+font-size: 17px;
+font-family: 'Signika', sans-serif;
+position: absolute;
+left: 6%;
+}    
+
+.par2{
+top: 185%;
+color: black;
+font-size: 17px;
+font-family: 'Signika', sans-serif;
+position: absolute;
+left: 6%;
+}   
+
+.par3{
+top: 260%;
+color: black;
+font-size: 17px;
+font-family: 'Signika', sans-serif;
+position: absolute;
+left: 6%;
+}
+
+.par4{
+top: 317.45%;
+color: black;
+font-size: 17px;
+font-family: 'Signika', sans-serif;
+position: absolute;
+left: 6%;
+}      
+
+.par5{
+top:336%;
+color: black;
+font-size: 17px;
+font-family: 'Signika', sans-serif;
+position: absolute;
+left: 6%;
+}    
+
+.par6{
+top: 399.8%;
+color: black;
+font-size: 17px;
+font-family: 'Signika', sans-serif;
+position: absolute;
+left: 6%;
+}
+
+.par7{
+top: 455.1%;
+color: black;
+font-size: 17px;
+font-family: 'Signika', sans-serif;
+position: absolute;
+left: 6%;
+}   
+
+.par8{
+top: 472.6%;
+color: black;
+font-size: 17px;
+font-family: 'Signika', sans-serif;
+position: absolute;
+left: 6%;
+} 
+
+.par9{
+top: 531.3%;
+color: black;
+font-size: 17px;
+font-family: 'Signika', sans-serif;
+position: absolute;
+left: 6%;
+} 
+
+.par10{
+top: 590.3%;
+color: black;
+font-size: 17px;
+font-family: 'Signika', sans-serif;
+position: absolute;
+left: 6%;
+} 
+
+.par11{
+top: 607.4%;
+color: black;
+font-size: 17px;
+font-family: 'Signika', sans-serif;
+position: absolute;
+left: 6%;
+} 
+
+.par12{
+top: 670%;
+color: black;
+font-size: 17px;
+font-family: 'Signika', sans-serif;
+position: absolute;
+left: 6%;
+} 
+
+.par13{
+top: 727.2%;
+color: black;
+font-size: 17px;
+font-family: 'Signika', sans-serif;
+position: absolute;
+left: 6%;
+} 
+
+.par14{
+top: 744.5%;
+color: black;
+font-size: 17px;
+font-family: 'Signika', sans-serif;
+position: absolute;
+left: 6%;
+} 
+
+.par15{
+top: 802.5%;
+color: black;
+font-size: 17px;
+font-family: 'Signika', sans-serif;
+position: absolute;
+left: 6%;
+} 
+
+.par16{
+top: 855.6%;
+color: black;
+font-size: 17px;
+font-family: 'Signika', sans-serif;
+position: absolute;
+left: 6%;
+} 
+
+.par17{
+top: 872%;
+color: black;
+font-size: 17px;
+font-family: 'Signika', sans-serif;
+position: absolute;
+left: 6%;
+}  
+
+.par18{
+top: 938%;
+color: black;
+font-size: 17px;
+font-family: 'Signika', sans-serif;
+position: absolute;
+left: 6%;
+} 
+
+.par19{
+top: 956.3%;
+color: black;
+font-size: 17px;
+font-family: 'Signika', sans-serif;
+position: absolute;
+left: 6%;
+} 
+
+.par20{
+top: 44.9%;
+color: black;
+font-size: 17px;
+font-family: 'Signika', sans-serif;
+position: absolute;
+left: 6%;
+} 
+
+.par21{
+top: 60%;
+color: black;
+font-size: 17px;
+font-family: 'Signika', sans-serif;
+position: absolute;
+left: 6%;
+} 
+
+.par22{
+top: 75.1%;
+color: black;
+font-size: 17px;
+font-family: 'Signika', sans-serif;
+position: absolute;
+left: 6%;
+} 
+
+.par23{
+top: 44.9%;
+color: black;
+font-size: 17px;
+font-family: 'Signika', sans-serif;
+position: absolute;
+left: 36%;
+} 
+
+.par24{
+top: 60%;
+color: black;
+font-size: 17px;
+font-family: 'Signika', sans-serif;
+position: absolute;
+left: 36%;
+} 
+
+.par25{
+top:17%;
+color: black;
+font-size: 17px;
+font-family: 'Signika', sans-serif;
+position: absolute;
+left: 73%;
+} 
+
+.par26{
+top:65%;
+color: black;
+font-size: 17px;
+font-family: 'Signika', sans-serif;
+position: absolute;
+left: 73%;
+}
+
+.bot1{
+color: black;
+position: absolute;
+left:80%;
+top: 35%;
+}
+
+.bot2{
+color: black;
+position: absolute;
+left:80%;
+top:41%
+}
+
+.bot3{
+color: black;
+position: absolute;
+left:80%;
+top:47%
+}
+
+.bot4{
+color: black;
+position: absolute;
+left:80%;
+top:53%
+}
+
+.bot5{
+color: black;
+position: absolute;
+left:80%;
+top:59%
+}
+
+.text_1{
+top:0%;
+color: white;
+font-size: 22.5px;
+font-family: 'Francois One', sans-serif;
+transition: 1s ease;
+text-decoration: none;
+line-height: 3.5;
+position: absolute;
+left:4%
+}
+.text_1:hover{
+    transform: scale(1.2);
+    text-decoration: underline;
+}
+
+.text_2{
+top:0%;
+color: white;
+font-size: 22.5px;
+font-family: 'Francois One', sans-serif;
+transition: 1s ease;
+text-decoration: none;
+line-height: 3.5;
+position: absolute;
+left:14%
+}
+.text_2:hover{
+    transform: scale(1.2);
+    text-decoration: underline;
+}
+
+.text_3{
+top:0%;
+color: white;
+font-size: 22.5px;
+font-family: 'Francois One', sans-serif;
+transition: 1s ease;
+text-decoration: none;
+line-height: 3.5;
+position: absolute;
+left:25%
+}
+.text_3:hover{
+    transform: scale(1.2);
+    text-decoration: underline;
+}
+
+span{
+    text-decoration: underline;
+    color: red;
+}
+
+a{
+    color: red;
+    text-decoration:underline;
+}
+
+.blok{
+    top: 1040%;
+    width: 100%;
+    height: 33vh;
+    background: lightgray;
+    position:absolute;
+}
+
+*{
+    margin: 0%;
+    padding: 0%;
+}
